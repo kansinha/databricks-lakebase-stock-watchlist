@@ -7,7 +7,7 @@
 
 ## 📸 Application Screenshot
 
-![Databricks Lakebase Stock Watchlist]Screenshot 2026-08-05 223407.png
+![Databricks Lakebase Stock Watchlist](Screenshot 2026-08-05 223407.png)
 
 # Databricks Lakebase Stock Watchlist
 
