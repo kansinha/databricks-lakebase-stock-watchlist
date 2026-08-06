@@ -1,3 +1,10 @@
+## LIVE APP: 
+👉 [View the Stock Watchlist App](https://databricks-app-day-1-7474657899306491.aws.databricksapps.com/)
+Note: Access to the live application may require Databricks authentication.
+
+
+
+
 # Databricks Lakebase Stock Watchlist
 
 This is a stock watchlist application I built as part of ** Databricks AI Bootcamp**.
