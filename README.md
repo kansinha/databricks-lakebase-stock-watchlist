@@ -1,7 +1,10 @@
-## LIVE APP: 
-👉 [View the Stock Watchlist App](https://databricks-app-day-1-7474657899306491.aws.databricksapps.com/)
-Note: Access to the live application may require Databricks authentication.
+## 🔗 LIVE APP:
 
+👉 [View the Stock Watchlist App](https://databricks-app-day-1-7474657899306491.aws.databricksapps.com/)
+
+> **Note:** Access to the live application may require Databricks authentication.
+
+![Uploading Screenshot 2026-08-05 223407.png…]()
 
 
 
