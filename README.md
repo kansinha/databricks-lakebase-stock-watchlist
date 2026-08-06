@@ -5,7 +5,7 @@
 > **Note:** Access to the live application may require Databricks authentication.
 
 
-
+Screenshot 2026-08-05 223407.png
 
 # Databricks Lakebase Stock Watchlist
 
