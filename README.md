@@ -4,7 +4,6 @@
 
 > **Note:** Access to the live application may require Databricks authentication.
 
-![Uploading Screenshot 2026-08-05 223407.png…]()
 
 
 
