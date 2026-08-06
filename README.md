@@ -6,7 +6,6 @@
 > 
 
 ## 📸 Application Screenshot
-
 ![Databricks Lakebase Stock Watchlist](stock-watchlist-app.png)
 
 # Databricks Lakebase Stock Watchlist
